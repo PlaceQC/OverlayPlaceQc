@@ -2,6 +2,14 @@
   "contact": "https://disboard.org/fr/server/959141965532897340",
   "templates": [
     {
+      "name": "cofraxtan",
+      "sources": [
+        "https://github.com/PlaceQC/OverlayPlaceQc/blob/main/png/drapeau-cofraxtan.png?raw=true"
+      ],
+      "x": 458,  
+      "y": 543
+    },
+    {
       "name": "Place Quebec",
       "sources": [
         "https://github.com/PlaceQC/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
